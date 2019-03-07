@@ -3,8 +3,7 @@ zem  zem
 我又加了一行
 w w w 
 kkkkk
-<<<<<<< HEAD
 mmmm
-=======
 mmmmm
->>>>>>> james
+mmmmm
+rrr
